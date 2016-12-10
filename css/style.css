@@ -161,7 +161,8 @@ body {
   }
 }
 
-.rest-btn {
+.reset-btn,
+.download-btn {
   display: none;
 }
 
@@ -720,7 +721,6 @@ body {
       bottom: 0;
    }
 }
-
 /**
  * Code style
  */
